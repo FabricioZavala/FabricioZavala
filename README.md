@@ -1,7 +1,5 @@
-# ¡Hola! :DD Soy Fabricio Zavala
+# Hola :DD 
 
-💻 **Soy estudiante de TI y me gusta aprender sobre cosas que aún no conozco con proyectos nuevos**  
----
 Cuenta para proyectos profesionales y priv.
 ---
 
